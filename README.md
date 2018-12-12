@@ -1,4 +1,7 @@
 # NLP-draft-system
+
+    analysis.py
+
     USAGE:
     BY DEFUALT THE MODEL RUNS THE OPTIMAL PARAMETERS FOR THE DEVELOPMENTS SET
     -t runs the model on the test dataset as opposed to the development dataset
